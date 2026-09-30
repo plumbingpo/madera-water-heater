@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maderawaterheater.com/sitemap.xml
